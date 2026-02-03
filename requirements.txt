@@ -1,0 +1,6 @@
+aiogram
+motor
+dnspython
+uvicorn
+fastapi
+python-dotenv
